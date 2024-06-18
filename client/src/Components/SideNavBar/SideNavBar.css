@@ -1,0 +1,5 @@
+.SideNavBar{
+    display: flex;
+    background-color: rgb(16, 97, 82);
+    padding: 10px;
+}
